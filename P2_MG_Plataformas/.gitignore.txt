@@ -1,0 +1,20 @@
+# Carpetas generadas automáticamente por Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Archivos de Visual Studio / VS Code (si usan para código)
+.vs/
+.vscode/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Archivos ocultos del sistema operativo
+.DS_Store
+Thumbs.db
